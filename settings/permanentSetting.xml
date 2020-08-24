@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><settings><setting><machineId>1234</machineId><isPrintLog>Yes</isPrintLog><stopBit>1</stopBit><parity>0</parity><comPort>COM3</comPort><dataBits>8</dataBits><machineName>Cobas6000</machineName><bitsPerSecond>9600</bitsPerSecond></setting></settings>
